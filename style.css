@@ -3,7 +3,7 @@
     background-color: rgba(0, 0, 0, 0.7) !important;
 }
 .ej-container-2 {
-    background-image: url("/Images/it2.jpg");
+    background-image: url("./Images/it2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
