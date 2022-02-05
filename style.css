@@ -160,6 +160,7 @@
 @media only screen and (max-width: 992px) {
     .ej-address-details {
         margin-top: 10px;
+        margin-left: -100px !important;
     }
 }
 /* js style */
